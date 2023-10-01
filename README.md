@@ -15,6 +15,9 @@ juntamente com uma mensagem que inclui o valor de entrada e o valor de saída. I
 * Clique em converter
 * O program exibira o resultado e uma mensagem exibindo o valor de entrada e de saída
 
+## Diagrama de sequência
+![Diagrama-sequência-conversor-unidades](https://github.com/cristianocrn/conversor-unidades/assets/79581260/4896c875-eb3c-4c67-a6dd-fbb94e7a8f1f)
+
 # Tecnologias usadas
 - HTML
 - CSS
@@ -22,3 +25,7 @@ juntamente com uma mensagem que inclui o valor de entrada e o valor de saída. I
 
 # Autor
 Cristiano Rocha Nascimento
+
+## Referência
+Matheus Battisti  
+https://www.youtube.com/@MatheusBattisti/videos
